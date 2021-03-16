@@ -1,0 +1,3 @@
+C:\Users\nico\Documents\dev\csharp\azure\learn-azure\bin\Debug\net5.0\learn-azure.exe
+C:\Users\nico\Documents\dev\csharp\azure\learn-azure\bin\Debug\net5.0\learn-azure.dll
+C:\Users\nico\Documents\dev\csharp\azure\learn-azure\bin\Debug\net5.0\learn-azure.Views.dll
